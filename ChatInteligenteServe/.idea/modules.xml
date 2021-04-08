@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChatInteligenteServe.iml" filepath="$PROJECT_DIR$/ChatInteligenteServe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ChatInteligenteTest/ChatInteligenteTest.iml" filepath="$PROJECT_DIR$/../ChatInteligenteTest/ChatInteligenteTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ChatInteligenteUtil/ChatInteligenteUtil.iml" filepath="$PROJECT_DIR$/../ChatInteligenteUtil/ChatInteligenteUtil.iml" />
+    </modules>
+  </component>
+</project>
